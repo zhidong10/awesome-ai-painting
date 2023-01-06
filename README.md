@@ -55,7 +55,7 @@
 |sd-outpaing|免费 |https://github.com/lkwq007/stablediffusion-infinity |
 |novelai-colab 版本|免费 |https://github.com/acheong08/Diffusion-ColabUI |
 |novelai-colab 版本2|免费 |https://github.com/JingShing/novelai-colab-ver |
-
+|阿里达摩院通义文生图大模型 |免费 |https://decoder.modelscope.cn/pcIndex |
 
 
 
